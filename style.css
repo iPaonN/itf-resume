@@ -1,0 +1,45 @@
+
+
+#cool_heading{
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 55px;
+    margin:0 auto;
+}
+
+p{
+    font-size: 24px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.card{
+    border: 5px solid;
+    border-color: yellow;
+    position: absolute;
+    display: block;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    left: 25%;
+    right: 25%;
+    height: auto;
+    background-color:seashell;
+}
+
+#me{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 10px;
+    width: 300px;
+    height: 300px;
+}
+
+#school{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Kanit', sans-serif;
+}
